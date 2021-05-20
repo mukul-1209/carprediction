@@ -1,0 +1,4 @@
+certifi==2020.12.5
+nltk==3.6.2
+regex==2021.4.4
+wincertstore==0.2
